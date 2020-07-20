@@ -1,5 +1,9 @@
 # PhoneTracer-rewrite
 
+## Requirements: 
+readline and puppeteer
+to install do 'npm install readline' and then 'npm install puppeteer'
+
 ## Usage:
 Follow instructions in program.
 
