@@ -7,7 +7,7 @@ to install do 'npm install readline' and then 'npm install puppeteer'
 
 ## Usage:
 'node phonetracer.js --unhandled-rejections=strict'\
-you can also run using 'phonetracer.js' this is not reccomended though since it will show warnings in output 
+you can also run using 'node phonetracer.js' this is not reccomended though since it will show warnings in output 
 
 
 
