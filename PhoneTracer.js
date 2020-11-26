@@ -8,14 +8,14 @@ output: process.stdout
 });
 
 
-phone_number = 0;
+phone_number = "";
 
 console.log("PhoneTracer-Rewrite 1.0.1");
 console.log("Developed by Mutiny27");
-
+// console.log("Please Enter the number you wish to trace: Hidden for privacy reason");
 rl.question("Please Enter the number you wish to trace: ", function(answer) {
   phone_number = answer;
-  console.log("Please wait...");
+  console.log("Please wait, this may take a minute...");
   rl.close();
 });
 
