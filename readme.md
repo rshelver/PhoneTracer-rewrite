@@ -14,3 +14,8 @@ you can also run using 'node phonetracer.js' this is not reccomended though sinc
 
 ### Known Bugs:
 * Throws node wanrnings after around 8 seconds if no phone number is inputted. Killing program
+
+
+
+### Credit:
+* Spydialer.com - uses their website to scrape from
